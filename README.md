@@ -1,4 +1,4 @@
-# hola-mundo
+# hola mundo
 Repositorio 1 control de cambios
 
 Autor: Gloria Nabor
